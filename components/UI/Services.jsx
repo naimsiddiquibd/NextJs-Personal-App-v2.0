@@ -29,7 +29,7 @@ const Services = () => {
             <h3 className="mb-0 mt-4">Better Programming</h3>
             <h3 className="mb-4">Better Experience</h3>
             <p>
-            Always prefer to introduce myself as a "Learner" rather than an Expert. I believe - "Everyday life is like programming. If we love something we can put beauty in it!" - and that's what am always doing what I love the most - "Programming". I enjoy the intricacies, details, and depth of pure mathematics and the excitement of solving problems. 
+            Always prefer to introduce myself as a &quot;Learner&quot; rather than an Expert. I believe - &quot;Everyday life is like programming. If we love something we can put beauty in it!&quot; - and that&apos;s what am always doing what I love the most - &quot;Programming&quot;. I enjoy the intricacies, details, and depth of pure mathematics and the excitement of solving problems. 
             </p>
           </Col>
         </Row>
