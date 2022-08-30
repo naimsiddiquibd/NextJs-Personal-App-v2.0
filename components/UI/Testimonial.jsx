@@ -30,30 +30,6 @@ const Testimonial = () => {
             <h4 className="mt-4 mb-5">Recommendations</h4>
 
             <Slider {...settings}>
-            
-             <div className={`${classes.testimonial__item}`}>
-                <div className={`${classes.testimonial__client}`}>
-                  <Image
-                    alt="client-img"
-                    src="/images/client-02.jpg"
-                    width="50"
-                    height="50"
-                    className=" rounded-2"
-                  />
-
-                  <div>
-                    <h6>Alex Choong</h6>
-                    <h6>CEO & Business Developer, Webdorks Pte. Ltd.</h6>
-                    <p>
-                    For reference: +6587535902
-                    </p>
-                  </div>
-                </div>
-
-                <p>
-                Responsive and cordial communications with our clients. Takes initiative and has been supporting our scope of work for graphic logo design since our company's inception. Great team member!
-                </p>
-              </div> 
               <div className={`${classes.testimonial__item}`}>
                 <div className={`${classes.testimonial__client}`}>
                   <Image
@@ -67,19 +43,40 @@ const Testimonial = () => {
                   <div>
                     <h6>Shafayet Siddiquee</h6>
                     <h6>CEO & Founder, Codeinflect Lmt.</h6>
-                     <p>
-                    For reference: +8801313354303
-                    </p>
                   </div>
                 </div>
 
                 <p>
                 He is very professional and passionate. I would must recommend him for any specialized project.
                 </p>
-           
+                <p>
+                    For reference: +8801313354303
+                </p>
               </div>
 
-              
+              <div className={`${classes.testimonial__item}`}>
+                <div className={`${classes.testimonial__client}`}>
+                  <Image
+                    alt="client-img"
+                    src="/images/client-02.jpg"
+                    width="50"
+                    height="50"
+                    className=" rounded-2"
+                  />
+
+                  <div>
+                    <h6>Alex Choong</h6>
+                    <h6>CEO & Business Developer, Webdorks Pte. Ltd.</h6>
+                  </div>
+                </div>
+
+                <p>
+                Responsive and cordial communications with our clients. Takes initiative and has been supporting our scope of work for graphic logo design since our company's inception. Great team member!
+                </p>
+                <p>
+                    For reference: +6587535902
+                </p>
+              </div> 
 
             </Slider>
           </Col>
