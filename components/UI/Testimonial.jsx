@@ -47,7 +47,7 @@ const Testimonial = () => {
                 </div>
 
                 <p>
-                He is very much professional and passionate.I would must recommend him for any specialized project.
+                He is very professional and passionate. I would must recommend him for any specialized project.
                 </p>
               </div>
 
