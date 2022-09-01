@@ -71,7 +71,7 @@ const Testimonial = () => {
                 </div>
 
                 <p>
-                Responsive and cordial communications with our clients. Takes initiative and has been supporting our scope of work for graphic logo design since our company's inception. Great team member!
+                Responsive and cordial communications with our clients. Takes initiative and has been supporting our scope of work for graphic logo design since our company&apos;s inception. Great team member!
                 </p>
                 <p>
                     For reference: +6587535902
