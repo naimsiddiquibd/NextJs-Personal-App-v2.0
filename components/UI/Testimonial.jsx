@@ -49,9 +49,12 @@ const Testimonial = () => {
                 <p>
                 He is very professional and passionate. I would must recommend him for any specialized project.
                 </p>
+                <p>
+                    For reference: +8801313354303
+                </p>
               </div>
 
-              {/* <div className={`${classes.testimonial__item}`}>
+              <div className={`${classes.testimonial__item}`}>
                 <div className={`${classes.testimonial__client}`}>
                   <Image
                     alt="client-img"
@@ -70,7 +73,10 @@ const Testimonial = () => {
                 <p>
                 Responsive and cordial communications with our clients. Takes initiative and has been supporting our scope of work for graphic logo design since our company's inception. Great team member!
                 </p>
-              </div> */}
+                <p>
+                    For reference: +6587535902
+                </p>
+              </div> 
 
             </Slider>
           </Col>
