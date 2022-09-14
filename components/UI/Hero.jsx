@@ -16,7 +16,7 @@ const Hero = () => {
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
               <h2 className="mt-3 mb-3">I&apos;m Naim Siddiqui</h2>
-              <h5 className="mb-4">Full-Stack Developer</h5>
+              <h5 className="mb-4">Software Engineer | Full-stack Developer | MERN Specialist</h5>
               <p>
               Expertise in JS, TS, ES6, React, Redux, React Native, Next.js, Node.js, Express.js, Rest API, MongoDB, Firebase,
               Tailwind, Bootstrap, MUI, GraphQL, Google API, SASS, Payment Gateway, WordPress, AWS, Vue.js, MySQL, Python, Django

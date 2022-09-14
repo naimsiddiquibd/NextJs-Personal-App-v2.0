@@ -12,13 +12,13 @@ const Services = () => {
           <Col lg="6" md="6">
             <div className={`${classes.services__container}`}>
               <div>
-                <ServicesItem title="App Development" icon="ri-apps-line" />
+                <ServicesItem title="Competitive Programming" icon="ri-apps-line" />
 
-                <ServicesItem title="Web Development" icon="ri-computer-line" />
+                <ServicesItem title="Full-Stack Development" icon="ri-computer-line" />
               </div>
 
               <ServicesItem
-                title="Full-Stack Development"
+                title="Problem Solving"
                 icon="ri-code-s-slash-line"
               />
             </div>

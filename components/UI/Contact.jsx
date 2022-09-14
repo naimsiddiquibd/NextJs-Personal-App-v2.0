@@ -14,7 +14,7 @@ const Contact = () => {
             <SectionSubtitle subtitle="Contact me" />
             <h3 className="mt-4 mb-4">I am Ready to talk!</h3>
             <p>
-            Let&apos;s gossip to build your Web, Mobile, or Desktop Application
+            Let&apos;s gossip about your issues & make them solved!
             </p>
 
             <ul className={`${classes.contact__info__list}`}>
