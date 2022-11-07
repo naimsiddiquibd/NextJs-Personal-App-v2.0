@@ -64,7 +64,7 @@ const About = () => {
               </button>
 
               <button className="secondary__btn">
-                <Link href="https://drive.google.com/uc?export=download&id=1bjh-rpu6ZkcVdZ_3Cn4atiahdOX4b4pO">Download CV</Link>
+                <Link href="https://codeforces.com/profile/NaimSiddiqui">Me on the Codeforces</Link>
               </button>
             </div>
           </Col>

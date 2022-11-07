@@ -1,7 +1,7 @@
 const portfolio = [
   {
     id: "01",
-    title: "Transportation Mobile App",
+    title: "CRM System",
     img: "/images/portfolio-01.jpg",
     category: "Mobile App",
     keyword: ["React Native", "Material UI", "Firebase"],
@@ -10,7 +10,7 @@ const portfolio = [
 
   {
     id: "02",
-    title: "Workout Tracker App",
+    title: "HRM System",
     img: "/images/portfolio-02.jpg",
     category: "Mobile App",
     keyword: ["React Native", "Material UI", "Firebase"],
@@ -19,7 +19,7 @@ const portfolio = [
 
   {
     id: "03",
-    title: "Fashion Shopping App",
+    title: "Face Detector",
     img: "/images/portfolio-03.jpg",
     category: "Mobile App",
     keyword: ["React Native", "Material UI", "Firebase"],
@@ -28,7 +28,7 @@ const portfolio = [
 
   {
     id: "04",
-    title: "Fashion Shopping App",
+    title: "Neural Network",
     img: "/images/portfolio-04.jpg",
     category: "Mobile App",
     keyword: ["React Native", "Material UI", "Firebase"],
@@ -37,7 +37,7 @@ const portfolio = [
 
   {
     id: "05",
-    title: "Furniture Shopping App",
+    title: "Blood Donation Network",
     img: "/images/portfolio-05.jpg",
     category: "Mobile App",
     keyword: ["React Native", "Material UI", "Firebase"],
@@ -46,7 +46,7 @@ const portfolio = [
 
   {
     id: "06",
-    title: "Travel  App",
+    title: "nChat (Live Chat App)",
     img: "/images/portfolio-06.jpg",
     category: "Mobile App",
     keyword: ["React Native", "Material UI", "Firebase"],
