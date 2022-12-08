@@ -16,7 +16,7 @@ const Hero = () => {
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
               <h2 className="mt-3 mb-3">I&apos;m Naim Siddiqui</h2>
-              <h5 className="mb-4">Software Engineer | Full-stack Developer | MERN Specialist</h5>
+              <h5 className="mb-4">Software Engineer | Competitive Programmer | Full-stack Developer</h5>
               <p>
               Expertise in JS, TS, ES6, React, Redux, React Native, Next.js, Node.js, Express.js, Rest API, MongoDB, Firebase,
               Tailwind, Bootstrap, MUI, GraphQL, Google API, SASS, Payment Gateway, WordPress, AWS, Vue.js, MySQL, Python, Django
@@ -27,7 +27,7 @@ const Hero = () => {
                 </button>
 
                 <button className="secondary__btn">
-                  <Link href="https://drive.google.com/file/d/1bjh-rpu6ZkcVdZ_3Cn4atiahdOX4b4pO/view?usp=sharing">Download CV</Link>
+                  <Link href="https://drive.google.com/file/d/1lpvgaYAVFhxiZS5Mr4U9HsMBJWIgSl1o/view?usp=share_link">Download CV</Link>
                 </button>
               </div>
             </div>
