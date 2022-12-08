@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <Fragment>
       <Head>
-        <title>Naim Siddiqui - Software Engineer - Full Stack - MERN</title>
+        <title>Naim Siddiqui - Software Engineer Competitive Programmer - Full Stack - MERN</title>
       </Head>
       <Hero />
       <Services />
